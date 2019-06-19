@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NBandcc": {
+      "commandName": "Project",
+      "commandLineArgs": "Files"
+    }
+  }
+}
